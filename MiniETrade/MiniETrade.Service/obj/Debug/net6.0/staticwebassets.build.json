@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m6Xf5MrzfJVpxytdoRffLY8IPVPZBpb4QatOclNvqj0=",
+  "Source": "MiniETrade.Service",
+  "BasePath": "_content/MiniETrade.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

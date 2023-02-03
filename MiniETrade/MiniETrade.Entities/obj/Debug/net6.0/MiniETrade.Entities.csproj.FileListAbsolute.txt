@@ -1,0 +1,36 @@
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.deps.json
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.dll
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.pdb
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.dll
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\refint\MiniETrade.Entities.dll
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.pdb
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\ref\MiniETrade.Entities.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.deps.json
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.pdb
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.csproj.AssemblyReference.cache
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.AssemblyInfo.cs
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\refint\MiniETrade.Entities.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.pdb
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\ref\MiniETrade.Entities.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.deps.json
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\bin\Debug\net6.0\MiniETrade.Entities.pdb
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\refint\MiniETrade.Entities.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\MiniETrade.Entities.pdb
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.Entities\obj\Debug\net6.0\ref\MiniETrade.Entities.dll

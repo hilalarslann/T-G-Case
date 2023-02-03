@@ -1,0 +1,164 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<link href="~/css/site.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<section class="layout">
+    <div class="sidebar">
+        <div id="subCategories" class="list-group">
+            <a class="list-group-item list-group-item-action"><b>Kategori</b></a>
+        </div>
+    </div>
+    <div id="body" class="body">
+        <ul id="productList">
+        </ul>
+    </div>
+</section>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const categoryId = urlParams.get('categoryId');
+    const subCategoryId = urlParams.get('subCategoryId');
+
+    //function test() {
+    //    if (subCategoryId != undefined || subCategoryId != null){
+    //        console.log("sad");
+    //    }
+    //}
+
+    $(document).ready(function () {
+        $.ajax({
+            url: url + "SubCategory/Get/" + categoryId,
+            dataType: 'json',
+            type: 'GET',
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+
+                var subCategories = document.getElementById("subCategories");
+
+                for (var i = 0; i < data.length; i++) {
+                    var link = document.createElement("a");
+                    link.innerText = data[i].name;
+                    link.className = "list-group-item list-group-item-action";
+                    link.href = "Product?categoryId=" + categoryId + "&subCategoryId=" + data[i].id;
+                    subCategories.appendChild(link);
+                    //link.addEventListener("click", function (event) {
+                    ////
+                    //}
+                }
+            }
+        });
+
+        $.ajax({
+            url: url + "Product/ListProduct/" + categoryId,
+            dataType: 'json',
+            type: 'GET',
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+                const productList = document.querySelector("#productList");
+                data.map((product) => {
+                    const productItem = document.createElement("li");
+                    productItem.classList.add("productItem");
+
+                    const productImage = document.createElement("img");
+                    productImage.src = product.img;
+                    productImage.alt = product.name;
+                    productImage.classList.add("productImage");
+
+
+                    const productName = document.createElement("p");
+                    productName.innerHTML = product.name;
+                    productName.classList.add("productName");
+
+                    const productPrice = document.createElement("p");
+                    productPrice.innerHTML = product.unitPrice + " Tl";
+                    productName.classList.add("productPrice");
+
+                    const addToBasket = document.createElement("button");
+                    addToBasket.innerHTML = "Sepete ekle";
+                    addToBasket.classList.add("addToBasket");
+
+                    productItem.appendChild(productImage);
+                    productItem.appendChild(productName);
+                    productItem.appendChild(productPrice);
+                    productItem.appendChild(addToBasket);
+
+                    productList.appendChild(productItem);
+
+                })
+                body.appendChild(productList);
+            }
+        });
+    });
+
+</script>
+
+<style>
+    body, h1, h2, h3, h4, h5, h6, .w3-wide {
+        font-family: "Montserrat", sans-serif;
+    }
+
+    .layout {
+        width: 1366px;
+        height: 768px;
+        display: grid;
+        grid: "sidebar body" 1fr / auto 1fr;
+        gap: 8px;
+    }
+
+    .sidebar {
+        grid-area: sidebar;
+    }
+
+    .body {
+        grid-area: body;
+    }
+
+    #productList {
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .productImage {
+        width: 100%;
+        height: auto;
+    }
+
+    .productItem {
+        width: 23.23%;
+        padding: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        border: 1px solid lightgray;
+        border-radius: 12px;
+        margin: 20px;
+    }
+
+    .productName {
+        margin: 20px 0;
+    }
+
+    .productPrice {
+        margin: 0;
+        font-weight: bold;
+    }
+
+    .addToBasket {
+        background-color: green;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+</style>

@@ -1,0 +1,36 @@
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.deps.json
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.dll
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.pdb
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.dll
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\refint\MiniETrade.DTO.dll
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.pdb
+C:\Users\hilal\OneDrive\Masaüstü\T&G Case\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\ref\MiniETrade.DTO.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.deps.json
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.pdb
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.csproj.AssemblyReference.cache
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.AssemblyInfoInputs.cache
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.AssemblyInfo.cs
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.csproj.CoreCompileInputs.cache
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\refint\MiniETrade.DTO.dll
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.pdb
+C:\Users\tuncay\Downloads\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\ref\MiniETrade.DTO.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.deps.json
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\bin\Debug\net6.0\MiniETrade.DTO.pdb
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\refint\MiniETrade.DTO.dll
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\MiniETrade.DTO.pdb
+C:\Users\hilal\OneDrive\Masaüstü\MiniETrade\MiniETrade\MiniETrade.DTO\obj\Debug\net6.0\ref\MiniETrade.DTO.dll
