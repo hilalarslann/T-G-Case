@@ -80,10 +80,13 @@ Middleware, IApplicationBuilder sınıfındaki Use metodunu kullanarak eklenir. 
 
 Viewmodel nedir?
 Viewmodel, view de kullanılan dataları taşıyan onu temsil eden bir sınıf.
+
 DTO nedir?
 DTO nesnesi genellikle SQL den gelen dataların backend içindeki herhangi bir noktadan başka bir noktaya sadece kullanılacak olan datalarını temsil eden bir nesnedir.
+
 Dependency Injection nedir?
 Bağımlılık oluşturan parçaların ayrılıp, bunların constructor dan verilmesiyle sistem içerisindeki bağımlılığı minimize eder
+
 SOLID Yazılım mühendisliğinde SOLID, nesne yönelimli tasarımları daha anlaşılır, esnek ve sürdürülebilir kılmayı amaçlayan beş tasarım ilkesinin anımsatıcı bir kısaltmasıdır
  Single-responsibility principle(prınsıpl) "Bir sınıfın değişmesi için asla birden fazla neden olmamalıdır." Başka bir deyişle, her sınıfın yalnızca bir sorumluluğu olmalıdır. 
  Open–closed principle "Yazılım varlıkları ... genişletmeye açık olmalı, ancak değişiklik için kapalı olmalıdır."-Sisteme yeni bir özellik eklendiğinde mevcut kodlar bozulmaz.
@@ -94,17 +97,21 @@ SOLID Yazılım mühendisliğinde SOLID, nesne yönelimli tasarımları daha anl
  
 9-  	TSQL ve MSSQL arasındaki fark nedir ?
 T-SQL, SQL Server üzerinde kullanılan özel bir sorgu dilidir, MSSQL ise Microsoft SQL Server'ın kendisini ifade eder. 
+
 10- Microservislerin mantığı nedir ?
 Microservis mimarisi, büyük bir yazılım uygulamasını küçük parçalara böler.
 Her parça (microservis), kendi başına çalışan ve belirli bir işlevi yerine getiren bir hizmettir. Bu parçalar birbirleriyle iletişim kurar, ancak bir hizmetin çökmesi diğerlerini etkilemez.
+
 11- ASP.Net api ile mvc arasındaki fark nedir ?
 ASP.NET MVC: Web uygulamaları geliştirmek için tasarlanmıştır.İstemci ve sunucu arasında veri alışverişi üzerine odaklanır.
 ASP.NET API (Web API): Genellikle, uygulamalar arası veri alışverişi için tasarlanmıştır. RESTful servisler sağlamak veya mobil uygulamalar gibi farklı istemcilerle veri paylaşımı amacıyla kullanılır
 
 12- Restful servis nedir ?
 RESTful servis, temel olarak web tabanlı uygulamalarda veri alışverişi sağlayan bir tür web servisidir. 
+
 12-Fluent API nedir
  Fluent API kullanarak bir Entity Framework modeline özellik eklemek için kullanılır.Kodu daha açık, sade ve doğru bir şekilde ifade etmeye odaklanır.
+ 
 13-Asenkron yapı nedir ?
 Senkron programlama modelinde, bir işlemin başlamasından önce bir önceki işlemin tamamlanması gerekmektedir.
 Asenkron, işlemlerin birbirinden bağımsız olarak ve aynı anda gerçekleşebildiği bir durumu ifade eder.
